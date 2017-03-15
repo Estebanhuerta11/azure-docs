@@ -47,7 +47,6 @@ Replace **CLUSTERNAME** with the name of your HDInsight cluster.
 
 From a prompt, use the following to delete the cluster:
 
-    azure hdinsight cluster delete CLUSTERNAME
-
+    azure hdinsight cluster delete CLUSTERNAME -g ResourceGroupName
 Replace **CLUSTERNAME** with the name of your HDInsight cluster.
 
